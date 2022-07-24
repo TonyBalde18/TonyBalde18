@@ -48,6 +48,9 @@
 ## <br/> 🙋‍♂️ Connect with me 
 
   <a  href="https://www.linkedin.com/in/ant%C3%B3nio-bald%C3%A9-17216b243/"><img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://www.facebook.com/tony.sosa.3979489"><img align="left" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  
+  
 
 
 <div align="center">
