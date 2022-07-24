@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E503E&height=180&section=header&text=Tony Baldé&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+António+Baldé;I'm+23+years+old;Based+in+Covilhã,+PT;I+am+an+aspiring+Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+António+Baldé;I'm+23+years+old;Based+in+Covilhã,+🇵🇹;I+am+an+aspiring+Web+Developer;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TonyBalde18&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=7E503E&text_color=fff&bg_color=0d1117" alt="Tony Baldé github stats" /> 
