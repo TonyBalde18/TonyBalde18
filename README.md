@@ -29,6 +29,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
   
 ### 💡 Studying in this moment:
@@ -47,14 +48,6 @@
 
   <a  href="https://www.linkedin.com/in/ant%C3%B3nio-bald%C3%A9-17216b243/"><img align="left" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a  href="https://www.facebook.com/tony.sosa.3979489"><img align="left" alt="Facebook" title="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  
-  
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TonyBalde18}/count.svg" /></p> 
-<br></div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E503E&height=120&section=footer"/>
