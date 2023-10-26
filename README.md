@@ -42,3 +42,7 @@
 </h3>
 
 <br/>
+
+
+## My Contributions
+![snake gif](https://github.com/TonyBalde18/TonyBalde18/blob/output/github-contribution-grid-snake.gif)
